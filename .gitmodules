@@ -1,0 +1,12 @@
+[submodule "ci_lab"]
+	path = ci_lab
+	url = https://github.com/nasa/ci_lab
+[submodule "sample_app"]
+	path = sample_app
+	url = https://github.com/nasa/sample_app
+[submodule "sch_lab"]
+	path = sch_lab
+	url = https://github.com/nasa/sch_lab
+[submodule "to_lab"]
+	path = to_lab
+	url = https://github.com/nasa/to_lab
